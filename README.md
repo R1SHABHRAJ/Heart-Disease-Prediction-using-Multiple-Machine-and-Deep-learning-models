@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-using-Multiple-Machine-and-Deep-learning-models
+This project aims to predict the presence of heart disease in patients based on various attributes such as age, sex, chest pain type, blood pressure, cholesterol level, etc. The project uses three different ML &amp; DL models. The project can be direct run on google colab after uploading the dataset to the notebook in colab.
